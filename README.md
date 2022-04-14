@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrbecott
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning a bit of everything
+- 👀 I’m interested in programming, mostly with game development
+- 🌱 I’m currently learning C, C#, Python, and more
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: rrbecott@mtu.edu (906)280-7011
 
